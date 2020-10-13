@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
+
+html{
+    width: 800px;
+    margin: auto;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+h1,h2{
+    font-family: 'Syne', sans-serif;
+}
+
+#img-caption{
+    font-family: 'Syne', sans-serif;
+}
+
+body{
+    display: block;
+    text-align: center;
+    border-left: 15px solid #3EC8AC;
+    border-right: 15px solid #4E90A4;
+    border-top: 15px solid #3EC8AC;
+    border-bottom: 15px solid #4E90A4;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  
+}
+    }
+
+#tribute-info{
+    display: block;
+}
+
+ul {
+    font-family: 'Syne', sans-serif;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    list-style-type: disc;
+    padding-inline-start: 40px;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  margin: 0 0 0 0;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+  transition: 0.3s;
+}
+#image:hover{
+    box-shadow: 0 16px 24px 0 rgba(0,0,0,0.7);
+}
+
+blockquote{
+    font-family: 'Syne', sans-serif;
+}
+
+footer{
+    padding-bottom: 20px;
+    font-family: 'Syne', sans-serif;
+}
